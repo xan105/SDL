@@ -1568,7 +1568,4 @@
   <ItemGroup>
     <ResourceCompile Include="..\..\src\core\windows\version.rc" />
   </ItemGroup>
-  <ItemGroup>
-    <MASM Include="..\..\src\stdlib\SDL_mslibc_x64.masm" />
-  </ItemGroup>
 </Project>
